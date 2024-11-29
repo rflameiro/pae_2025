@@ -6,9 +6,10 @@ Abaixo, alguns recursos adicionais que podem ser de interesse.
 
 ## KNIME
 
-- [TeachOpenCADD](https://hub.knime.com/knime/spaces/Life%20Sciences/Cheminformatics/Teaching/TeachOpenCADD/TeachOpenCADD~xYhrR1mfFcGNxz7I/current-state): Série de KNIME *workflows* em diversos tópicos de quimiometria/quimioinformática.
-- [Repositório do cgraebin001](https://hub.knime.com/cgraebin001/spaces/Public/~Bgn0LARiXz6y1cuZ/): KNIME *workflows* sobre ChEMBL e reações químicas.
-- [AutoML](https://hub.knime.com/knime/spaces/Examples/00_Components/Automation/AutoML%20(Regression)~5kzQcySUa8oukv0Y/current-state): KNIME *workflow* para treinar modelos de aprendizado de máquina
+- [TeachOpenCADD](https://hub.knime.com/knime/spaces/Life%20Sciences/Cheminformatics/Teaching/TeachOpenCADD/TeachOpenCADD~xYhrR1mfFcGNxz7I/current-state): Série de *workflows* em diversos tópicos de quimiometria/quimioinformática.
+- [Repositório do cgraebin001](https://hub.knime.com/cgraebin001/spaces/Public/~Bgn0LARiXz6y1cuZ/): *workflows* sobre ChEMBL e reações químicas.
+- [CADD](https://hub.knime.com/nyroindia/spaces/Workshops%20by%20Girinath%20(@giribio)%20on%20CADD/~kEDjwXffCUnHdE2X/): *workflows* sobre quimioinformática.
+- [AutoML](https://hub.knime.com/knime/spaces/Examples/00_Components/Automation/AutoML%20(Regression)~5kzQcySUa8oukv0Y/current-state): *workflow* para treinar modelos de aprendizado de máquina.
 
 ## Python
 
